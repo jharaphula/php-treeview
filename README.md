@@ -1,5 +1,9 @@
 A treeview is a hierarchical representation of data, often used to display parent-child relationships in a structured format. In web development, implementing a treeview using PHP and MySQL allows users to visualize and interact with nested data efficiently. This article explores how to create a dynamic treeview in PHP by fetching records from a MySQL database, ensuring scalability and ease of navigation.
 
+# PHP treeview example for web developers #
+
+Look at this PHP Treeview Example http://jharaphula.com/php-treeview-data-mysql-database/
+
 # Understanding Treeview Structures #
 
 A treeview consists of nodes, where each node can be a parent or a child. The topmost node is the root, and subsequent nodes branch out, forming a tree-like structure. Common use cases include organizational charts, file directories, product categories, and nested menus.
@@ -107,7 +111,3 @@ TreeView is a graphical control element that presents hierarchical data in a str
 15. Support for Multi-Selection and Checkboxes - Advanced TreeView implementations allow multi-selection of nodes or the inclusion of checkboxes for selecting multiple items. This is useful in scenarios like batch operations, where users need to select several files, tasks, or categories simultaneously.
 
 TreeView is a versatile and powerful tool for organizing and presenting hierarchical data. Its advantages—ranging from improved navigation and space efficiency to scalability and customization—make it indispensable in modern software development. By leveraging TreeView, developers can create intuitive, user-friendly interfaces that enhance productivity and streamline data management. Whether used in file systems, project management tools, or complex databases, TreeView remains a reliable solution for structured data representation.
-
-# PHP treeview example for web developers #
-
-Look at this PHP Treeview Example http://jharaphula.com/php-treeview-data-mysql-database/
